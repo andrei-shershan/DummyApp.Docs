@@ -7,5 +7,6 @@ Microservice app
 
 ### Stack
 Frontend: **React**
+
 Backend: **ASP.net core**, **.net10**
 
