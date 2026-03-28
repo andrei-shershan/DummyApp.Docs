@@ -5,6 +5,12 @@
 ### Architecture
 Microservice app
 
+Front end, BFF, Gateway API, microservices, Identity + OpenIddict 
+
+Local + Docker + Traefik
+
+Azure CI/CD
+
 ### Stack
 Frontend: **React**
 
