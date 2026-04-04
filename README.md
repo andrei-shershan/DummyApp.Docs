@@ -28,3 +28,5 @@ Backend: **ASP.net core**, **.net10**
 
 ### [DummyApp.StorageService](https://github.com/andrei-shershan/DummyApp.StorageService)
 
+### [DummyApp.Docker](https://github.com/andrei-shershan/DummyApp.Docker)
+
