@@ -11,6 +11,8 @@ Local + Docker + Traefik
 
 Azure CI/CD
 
+Terraform
+
 ### Stack
 Frontend: **React**
 
@@ -30,3 +32,4 @@ Backend: **ASP.net core**, **.net10**
 
 ### [DummyApp.Docker](https://github.com/andrei-shershan/DummyApp.Docker)
 
+### [DummyApp.Infra](https://github.com/andrei-shershan/DummyApp.Infra)
