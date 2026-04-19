@@ -18,6 +18,12 @@ Frontend: **React**
 
 Backend: **ASP.net core**, **.net10**
 
+Github Copilot / Claude Sonnet
+
+MySQL
+
+CosmosDB
+
 ## Projects
 
 ### [DummyApp.FE ](https://github.com/andrei-shershan/DummyApp.FE) 
