@@ -39,3 +39,5 @@ CosmosDB
 ### [DummyApp.Docker](https://github.com/andrei-shershan/DummyApp.Docker)
 
 ### [DummyApp.Infra](https://github.com/andrei-shershan/DummyApp.Infra)
+
+### [DummyApp.Shared](https://github.com/andrei-shershan/DummyApp.Shared)
