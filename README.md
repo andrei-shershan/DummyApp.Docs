@@ -24,6 +24,8 @@ MySQL
 
 CosmosDB
 
+Azure Functions
+
 ## Projects
 
 ### [DummyApp.FE ](https://github.com/andrei-shershan/DummyApp.FE) 
