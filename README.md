@@ -42,6 +42,8 @@ Azure Functions
 
 ### [DummyApp.Infra](https://github.com/andrei-shershan/DummyApp.Infra)
 
+### [DummyApp.PaymentService](https://github.com/andrei-shershan/DummyApp.PaymentService)
+
 ### [DummyApp.BlobService](https://github.com/andrei-shershan/DummyApp.BlobService)
 
 ### [DummyApp.EmailService](https://github.com/andrei-shershan/DummyApp.EmailService)
