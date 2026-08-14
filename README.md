@@ -47,3 +47,5 @@ Azure Functions
 ### [DummyApp.BlobService](https://github.com/andrei-shershan/DummyApp.BlobService)
 
 ### [DummyApp.EmailService](https://github.com/andrei-shershan/DummyApp.EmailService)
+
+### [DummyApp.FileService](https://github.com/andrei-shershan/DummyApp.FileService)
