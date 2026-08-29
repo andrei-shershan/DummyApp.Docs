@@ -3,28 +3,23 @@
 
 ## Architecture and stack
 ### Architecture
-Microservice app
 
-Front end, BFF, Gateway API, microservices, Identity + OpenIddict 
-
-Local + Docker + Traefik
-
-Azure CI/CD
-
-Terraform
 
 ### Stack
-Frontend: **React**
 
-Backend: **ASP.net core**, **.net10**
-
-Github Copilot / Claude Sonnet
-
-MySQL
-
-CosmosDB
-
-Azure Functions
+**Frontend**: React, TypeScript
+**Backend**: C#, .NET 10, ASP.NET Core, Azure Functions
+**Databases**: MySQL, Azure Cosmos DB
+**Identity / Authentication**: ASP.NET Identity, OpenIddict
+**DevOps / CI / CD**: GitHub Actions, Azure Pipelines
+**Testing**: xUnit, Moq
+**Messaging**: Azure Service Bus
+**Cloud**: Azure
+**Cloud Infrastructure**: Terraform 
+**Containers**: Docker, Traefik
+**Source control**: Git, Github
+**Tools**: VS Code, Rancher Desktop
+**AI**: GitHub Copilot
 
 ## Projects
 
