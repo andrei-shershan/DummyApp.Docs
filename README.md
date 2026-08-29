@@ -2,7 +2,9 @@
 **DummyApp** is just another dummy application which does something without any purpose rather that show my abilities to call myself a **software engineer**.
 
 ## Architecture and stack
-### Architecture
+### Architecture Diagram
+
+<img width="667" height="517" alt="image" src="https://github.com/user-attachments/assets/b43664db-b845-456e-9393-48d80a37af70" />
 
 
 ### Stack
