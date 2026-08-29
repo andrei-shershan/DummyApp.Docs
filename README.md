@@ -8,17 +8,29 @@
 ### Stack
 
 **Frontend**: React, TypeScript
+
 **Backend**: C#, .NET 10, ASP.NET Core, Azure Functions
+
 **Databases**: MySQL, Azure Cosmos DB
+
 **Identity / Authentication**: ASP.NET Identity, OpenIddict
+
 **DevOps / CI / CD**: GitHub Actions, Azure Pipelines
+
 **Testing**: xUnit, Moq
+
 **Messaging**: Azure Service Bus
+
 **Cloud**: Azure
+
 **Cloud Infrastructure**: Terraform 
+
 **Containers**: Docker, Traefik
+
 **Source control**: Git, Github
+
 **Tools**: VS Code, Rancher Desktop
+
 **AI**: GitHub Copilot
 
 ## Projects
